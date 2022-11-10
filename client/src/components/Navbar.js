@@ -124,7 +124,7 @@ function Navbar({currentSong, count, setCount}){
         </ul>
         <div className='sidebar-divider'>
         </div>
-        <div className="my-songs" >
+        <div className="my-songs">
             {renderTop()}
         </div>
         {count==1 ? <div className='expand-player'>
