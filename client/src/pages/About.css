@@ -63,7 +63,7 @@
 .image1{
     height: 80%;
     background-image: url("pic3.JPG");
-    background-size: 100% 100%;
+    background-size: 100% 140%;
     
 
 }
@@ -89,7 +89,7 @@
 .image3{
     height: 80%;
     background-image: url("pic2.png");
-    background-size: 140% 100%;
+    background-size: 140% 130%;
     background-position-x: 45%;
 
 }
@@ -136,8 +136,3 @@
     height: 110%;
     width: 25%;
 }
-
-
-
-
-
